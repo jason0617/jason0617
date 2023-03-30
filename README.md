@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jason0617
+- 👋 Hi, I’m Jiashun @jason0617
 - 👀 I’m interested in Radiation thermometry, Application of deep learning in measurement
 - 🌱 I’m currently learning Python, tensorflow
 - 📫 How to reach me 18846834116@163.com
